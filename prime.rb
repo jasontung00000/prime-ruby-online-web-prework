@@ -1,2 +1,3 @@
-def prime
+def prime(2)
+  
   
